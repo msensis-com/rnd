@@ -1,0 +1,10 @@
+[['night', 'bathroom', 'one', 'shower', 'bit', 'host', 'water', 'room', 'like', 'time'],
+ ['athens', 'bed', 'bit', 'one', 'night', 'shower', 'water', 'hot', 'area', 'like'], 
+['wifi', 'internet', 'slow', 'work', 'door', 'flight', 'connection', 'host', 'key', 'taxi'], 
+['regret', 'leave', 'sad', 'longer', 'nothing', 'better', 'say', 'fault', 'find', 'location'], 
+['justice', 'pictures', 'photos', 'donâ', 'view', 'description', 'looks', 'exactly', 'like', 'accurate'], 
+['spacious', 'basic', 'expected', 'middle', 'right', 'expectations', 'unbelievable', 'faultless', 'absolutely', 'insane'], 
+['exactly', 'described', 'advertised', 'advertisements', 'pictured', 'says', 'heart', 'comes', 'like', 'listing'], 
+['stars', 'star', 'give', 'five', 'enough', 'reason', 'hotel', 'rating', 'like', 'seem'], 
+['current', 'micro', 'soundscape', 'quiet', 'scissors', 'pharmacy', 'guarantee', 'way', 'carried', 'activity'],
+ ['families', 'elderly', 'children', 'family', 'young', 'suitable', 'child', 'kids', 'old', 'infirm']]

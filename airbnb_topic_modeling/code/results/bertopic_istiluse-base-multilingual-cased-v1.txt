@@ -1,0 +1,10 @@
+[['night', 'one', 'bathroom', 'shower', 'host', 'bit', 'like', 'room', 'area', 'water'],
+ ['one', 'water', 'bit', 'athens', 'night', 'hot', 'shower', 'time', 'unfortunately', 'issue'],
+ ['leave', 'regret', 'sad', 'longer', 'stayed', 'say', 'meet', 'better', 'want', 'nothing'],
+ ['bed', 'comfortable', 'uncomfortable', 'mattress', 'hard', 'sleep', 'sofa', 'beds', 'pillows', 'flat'], 
+['justice', 'pictures', 'photos', 'exactly', 'described', 'donâ', 'view', 'views', 'advertised', 'windows'], 
+['reactive', 'host', 'questions', 'sokol', 'hosts', 'disponible', 'manolis', 'arranging', 'answer', 'chris'],
+ ['check', 'in', 'easier', 'out', 'uncomplicated', 'process', 'confusing', 'instructions', 'checking', 'self'],
+ ['families', 'children', 'young', 'kids', 'family', 'elderly', 'child', 'suitable', 'small', 'politicians'], 
+['walking', 'walk', 'distance', 'tiring', 'itâ', 'minutes', '20', 'minute', '39deg', 'either'], 
+['charger', 'adapter', 'forgot', 'charge', 'electronics', 'bring', 'phone', 'plugs', 'left', 'mistake']]
